@@ -1,0 +1,13 @@
+# Freshdesk - Technical challenge 
+
+Freshdesk, a helpdesk system, allows the export of activity information of all tickets.
+
+## Installation
+
+1. Please copy all files, including *.py, *.jar, *.cfg, *.properties, *.xml, and *.sh into ~/temp.
+2. run freshdesk_deploy.sh to deploy ticket generator, file parser, and report.
+
+
+## Usage
+run freshdesk.sh to generate ticket activities into a JSON file, parse JSON file into db, and show ticket attribs.
+
